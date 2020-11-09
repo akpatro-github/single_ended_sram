@@ -2,15 +2,15 @@
 
 
 ******Inverter 1*******
-M2 nqbar nq 0 0 n w=1.6u l=0.4u
-M1 nqbar nq avdd avdd p w=0.66u l=0.4u
+M2 nqbar nq 0 0 n w=0.8u l=0.4u
+M1 nqbar nq avdd avdd p w=0.6u l=0.4u
 
 ******Inverter 2*******
 M4 nq nqbar nwa 0 n w=0.6u l=0.4u
-M3 nq nqbar avdd avdd p w=0.66u l=0.4u
+M3 nq nqbar avdd avdd p w=0.7u l=0.4u
 
 ******Write Asiist transistor***
-Mwa nwa nw0 0 0 n w=1u l=0.4u
+Mwa nwa nw0 0 0 n w=0.6u l=0.4u
 
 ******Acess Transistor*****
 M5 BL WL nq 0 n w=1u l=0.4u
@@ -22,11 +22,11 @@ Mra nra R 0 0 n w=0.6u l=0.4u
 
 ****Parasitcs*****
 cw1 BL 0 1270f
-cw3 WL 0 5100f
+cw3 WL 0 2560f
 m10 BL 0 avdd 0 n w=1u l=0.4u m=127
 *m7 blb gnd vdd gnd n w=0.8u l=0.4u m=127
 m11 avdd WL 0 0 n w=1u l=0.4u m=255
-m12 avdd WL avdd 0 n w=1u l=0.4u m=255
+*m12 avdd WL avdd 0 n w=1u l=0.4u m=255
 
 *****Precharge****
 Mp1 BL pc avdd avdd p w=3u l=0.4u
@@ -35,7 +35,7 @@ Mn BL n1 0 0 n w=3u l=0.4u
 .nodeset v(nq)=0
 .temp 25
 
-.tran 5p 200n
+.tran 5p 160n
 .lib '/home/vlsi/my_project/project2020/eda/ngspice-32/scn4m_subm.lib'nom
 
 ******Voltage Sources******
