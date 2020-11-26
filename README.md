@@ -1,6 +1,14 @@
-# 6T SRAM Cell Design for Ultra-low-voltage Application
+# A comparative study of 6T SRAM with 6T SE-SRAM cell
 ## Table of Contents
   - Introduction
-  - Block Diagram
-  - Simulation
-  - SNM 
+  - Standard 6T SRAM cell
+    - Block Diagram
+    - Pre-Layout Simulation
+    - Layout
+  - SE-SRAM cell
+    - Block Diagram
+    - Pre-Layout Simulation
+    - Layout
+  - Comparative analysis between standard 6T with SE-SRAM cell
+  - Conclusion
+  
