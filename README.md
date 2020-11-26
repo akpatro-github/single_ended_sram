@@ -41,4 +41,7 @@
 ![layout_sesram](https://user-images.githubusercontent.com/71965706/100325750-0acf9e80-2fef-11eb-9075-8a58d30678f1.png)
 ## Comparative analysis between standard 6t with SE-SRAM cell
 ### Read SNM
+#### 6T SRAM cell
+![snm_hold](https://user-images.githubusercontent.com/71965706/100326662-3c953500-2ff0-11eb-83be-05a94a8369a2.png)   ![snm_read](https://user-images.githubusercontent.com/71965706/100326671-4028bc00-2ff0-11eb-808f-75ff5c8b2989.png)
+
 ### Write-stability
