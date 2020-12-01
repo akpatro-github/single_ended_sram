@@ -1,6 +1,5 @@
 # A comparative study of 6T SRAM with 6T SE-SRAM cell
 ## Table of Contents
-  - Introduction
   - Methodology
   - Standard 6T SRAM cell
     - Block Diagram
@@ -13,7 +12,6 @@
   - Comparative analysis between standard 6T with SE-SRAM cell
   - Conclusion
   
-## Introduction
 ## Methodology
   - Memory size:- 1k X 32-bit
   - Operating voltage:- 5V
