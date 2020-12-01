@@ -61,7 +61,7 @@
   - Strong write ability compared to standard 6T cell using MOSIS 0.5um CMOS technology. 
 
 ## Contributor
-- Vikash kumar
+- [Vikash kumar](https://github.com/iamkrvikash)
 ## Acknowledgement
 - Dr.Saroj Rout, Associate Professor, Silicon Institute of Technology
 - Mr.Santunu sarangi, Assistant professor, Silicon Institute of Technology 
