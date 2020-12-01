@@ -1,16 +1,16 @@
 # A comparative study of 6T SRAM with 6T SE-SRAM cell
 ## Table of Contents
   - [Methodology](https://github.com/akpatro-github/single_ended_sram#Methodology)
-  - Standard 6T SRAM cell
-    - Block Diagram
-    - Pre-Layout Simulation
-    - Layout
-  - SE-SRAM cell
-    - Block Diagram
-    - Pre-Layout Simulation
-    - Layout
-  - Comparative analysis between standard 6T with SE-SRAM cell
-  - Conclusion
+  - [Standard 6T SRAM cell](https://github.com/akpatro-github/single_ended_sram#Standard 6T SRAM cell)
+    - [Block Diagram](https://github.com/akpatro-github/single_ended_sram#Block Diagram)
+    - [Pre-Layout Simulation](https://github.com/akpatro-github/single_ended_sram#Pre-Layout Simulation)
+    - [Layout](https://github.com/akpatro-github/single_ended_sram#Layout)
+  - [SE-SRAM cell](https://github.com/akpatro-github/single_ended_sram#SE-SRAM cell)
+    - [Block Diagram](https://github.com/akpatro-github/single_ended_sram#Block Diagram)
+    - [Pre-Layout Simulation](https://github.com/akpatro-github/single_ended_sram#Pre-Layout Simulation)
+    - [Layout](https://github.com/akpatro-github/single_ended_sram#Layout)
+  - [Comparative analysis between standard 6T with SE-SRAM cell](https://github.com/akpatro-github/single_ended_sram#Comparative analysis between standard 6T with SE-SRAM celll)
+  - [Conclusion](https://github.com/akpatro-github/single_ended_sram#Conclusion)
   
 ## Methodology
   - Memory size:- 1k X 32-bit
@@ -52,7 +52,13 @@
 ![write_stability](https://user-images.githubusercontent.com/71965706/100342158-98b58480-3003-11eb-9db6-a2740956fe9d.png)
 
   The write trip point voltage of a proposed 6T is 28% (1.4V) higher than the standard 6T. Thus the single ended 6T design has a little bit of high write ability than the standard 6T design. However, it has an advantage since an erroneous write will not take place easily compared to standard 6T cell.
-  
+
+## Conclusion
+  This project presents a 6T SE-SRAM cell. In the proposed 6T SE SRAM Cell : 
+  - Read current path is isolated from the data storage node Q and QB and, hence less vulnerable to noise.
+  - Isolation of read current path improves the SNM > 4x compared to standard 6T Cell
+  - Strong write ability compared to standard 6T cell using MOSIS 0.5um CMOS technology. 
+
 ## Contributor
 - Vikash kumar
 ## Acknowledgement
