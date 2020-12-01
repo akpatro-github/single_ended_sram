@@ -1,6 +1,6 @@
 # A comparative study of 6T SRAM with 6T SE-SRAM cell
 ## Table of Contents
-  - [Methodology](https://github.com/akpatro-github/single_ended_srame#Methodology)
+  - [Methodology](https://github.com/akpatro-github/single_ended_sram#Methodology)
   - Standard 6T SRAM cell
     - Block Diagram
     - Pre-Layout Simulation
