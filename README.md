@@ -32,6 +32,8 @@
   
   Layout has been done by open-source layout tool Magic.
 ## SE-SRAM cell
+  The single-ended 6T SRAM cell consists of two cross-coupled inverters connected to bitline(BL) with an access transistor (M5) and a data storage node isolation transistor (M6). For Read operation, a read assist transistor(Mra) is connected with an M6 transistor. One of the Inverter consists of a write assist transistor (Mwa) as shown in the figure. The read operation is controlled by the read assist transistor (Mra) by giving an input R. Similarly, the write operation is controlled by the write assist transistor (Mwa) and access transistor (M5) which depends upon the input W0 and WL.
+
 ### Block Diagram
 ![sesram1](https://user-images.githubusercontent.com/71965706/100325572-da880000-2fee-11eb-9ad5-2331e739a263.png)
 ### Pre-layout simulation
