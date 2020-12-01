@@ -1,15 +1,15 @@
 # A comparative study of 6T SRAM with 6T SE-SRAM cell
 ## Table of Contents
   - [Methodology](https://github.com/akpatro-github/single_ended_sram#Methodology)
-  - [Standard 6T SRAM cell](https://github.com/akpatro-github/single_ended_sram#Standard 6T SRAM cell)
-    - [Block Diagram](https://github.com/akpatro-github/single_ended_sram#Block Diagram)
-    - [Pre-Layout Simulation](https://github.com/akpatro-github/single_ended_sram#Pre-Layout Simulation)
+  - [Standard 6T SRAM cell](https://github.com/akpatro-github/single_ended_sram#Standard 6T-SRAM-cell)
+    - [Block Diagram](https://github.com/akpatro-github/single_ended_sram#Block-Diagram)
+    - [Pre-Layout Simulation](https://github.com/akpatro-github/single_ended_sram#Pre-Layout-Simulation)
     - [Layout](https://github.com/akpatro-github/single_ended_sram#Layout)
-  - [SE-SRAM cell](https://github.com/akpatro-github/single_ended_sram#SE-SRAM cell)
-    - [Block Diagram](https://github.com/akpatro-github/single_ended_sram#Block Diagram)
-    - [Pre-Layout Simulation](https://github.com/akpatro-github/single_ended_sram#Pre-Layout Simulation)
+  - [SE-SRAM cell](https://github.com/akpatro-github/single_ended_sram#SE-SRAM-cell)
+    - [Block Diagram](https://github.com/akpatro-github/single_ended_sram#Block-Diagram)
+    - [Pre-Layout Simulation](https://github.com/akpatro-github/single_ended_sram#Pre-Layout-Simulation)
     - [Layout](https://github.com/akpatro-github/single_ended_sram#Layout)
-  - [Comparative analysis between standard 6T with SE-SRAM cell](https://github.com/akpatro-github/single_ended_sram#Comparative analysis between standard 6T with SE-SRAM celll)
+  - [Comparative analysis between standard 6T with SE-SRAM cell](https://github.com/akpatro-github/single_ended_sram#Comparative-analysis-between-standard-6T-with-SE-SRAM-cell)
   - [Conclusion](https://github.com/akpatro-github/single_ended_sram#Conclusion)
   
 ## Methodology
