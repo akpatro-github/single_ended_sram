@@ -1,6 +1,6 @@
 # A comparative study of 6T SRAM with 6T SE-SRAM cell
 ## Table of Contents
-  - Methodology
+  - [Methodology](https://github.com/akpatro-github/single_ended_srame#Methodology)
   - Standard 6T SRAM cell
     - Block Diagram
     - Pre-Layout Simulation
@@ -52,3 +52,9 @@
 ![write_stability](https://user-images.githubusercontent.com/71965706/100342158-98b58480-3003-11eb-9db6-a2740956fe9d.png)
 
   The write trip point voltage of a proposed 6T is 28% (1.4V) higher than the standard 6T. Thus the single ended 6T design has a little bit of high write ability than the standard 6T design. However, it has an advantage since an erroneous write will not take place easily compared to standard 6T cell.
+  
+## Contributor
+- Vikash kumar
+## Acknowledgement
+- Dr.Saroj Rout, Associate Professor, Silicon Institute of Technology
+- Mr.Santunu sarangi, Assistant professor, Silicon Institute of Technology 
