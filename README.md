@@ -46,5 +46,9 @@
 ![snm_sesram](https://user-images.githubusercontent.com/71965706/100340882-d74a3f80-3001-11eb-9078-570dc2e4ee78.png)
 #### Read SNM for different PVT corners
 ![snm_pvt](https://user-images.githubusercontent.com/71965706/100341728-f5646f80-3002-11eb-9b70-f6537c771c7c.png)
+
+  The single ended 6T bitcell provides 4.5X higher worst-case read SNM as compared to the standard 6T SRAM bitcell under the same process variations. 
 ### Write-stability
 ![write_stability](https://user-images.githubusercontent.com/71965706/100342158-98b58480-3003-11eb-9db6-a2740956fe9d.png)
+
+  The write trip point voltage of a proposed 6T is 28% (1.4V) higher than the standard 6T. Thus the single ended 6T design has a little bit of high write ability than the standard 6T design. However, it has an advantage since an erroneous write will not take place easily compared to standard 6T cell.
