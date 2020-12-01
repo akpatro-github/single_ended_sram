@@ -11,7 +11,8 @@
     - [Layout](https://github.com/akpatro-github/single_ended_sram#Layout)
   - [Comparative analysis between standard 6T with SE-SRAM cell](https://github.com/akpatro-github/single_ended_sram#Comparative-analysis-between-standard-6T-with-SE-SRAM-cell)
   - [Conclusion](https://github.com/akpatro-github/single_ended_sram#Conclusion)
-  
+  - [Contributor](https://github.com/akpatro-github/single_ended_sram#Contributor)
+  - [Acknowledgement](https://github.com/akpatro-github/single_ended_sram#Acknowledgement)
 ## Methodology
   - Memory size:- 1k X 32-bit
   - Operating voltage:- 5V
